@@ -1,5 +1,5 @@
 # CSE-326-project
-To create a website "car buying and selling".<br>
+<b>"Car Buying And Selling Website"</b><br>
 In this website we use <b>HTMl,CSS </b>and <b>JavaScript</b>
 Name of group member:<br>
 1. <b>Rahul kumar</b>   : 11908355<br>
